@@ -12,18 +12,18 @@ Herramienta avanzada de **optimización, limpieza y mantenimiento de Windows**, 
 > **Esta herramienta modifica configuraciones del sistema y elimina archivos.**  
 > Debe usarse **bajo su propia responsabilidad**.
 
-- Ejecutar **SIEMPRE como Administrador**
-- Cerrar todos los programas antes de usar
-- Recomendado crear un **Punto de Restauración** antes de aplicar optimizaciones
+- Ejecutar **SIEMPRE como Administrador**.
+- Cerrar todos los programas antes de usar.
+- Recomendado crear un **Punto de Restauración** antes de aplicar optimizaciones.
 
 ---
 
 ## ✅ Requisitos
 
-- Windows **10 / 11**
-- Permisos de **Administrador**
-- PowerShell habilitado
-- Conexión a Internet (solo para MSRT)
+- Windows **10 / 11**.
+- Permisos de **Administrador**.
+- PowerShell habilitado.
+- Conexión a Internet (solo para MSRT).
 
 ---
 
@@ -31,10 +31,10 @@ Herramienta avanzada de **optimización, limpieza y mantenimiento de Windows**, 
 
 1. Descargar ambos archivo:
    ```bat
-   WMT_Cleaner_byIAyNXZ.bat
+   WMT_Cleaner_byIAyNXZ.cmd
    WMT_Cleaner_byIAyNXZ.ps1
 
-2. Clic derecho sobre el archivo
+2. Clic derecho sobre el archivo WMT_Cleaner_byIAyNXZ.cmd
 
 3. Seleccionar "Ejecutar como administrador"
 
@@ -42,9 +42,9 @@ Herramienta avanzada de **optimización, limpieza y mantenimiento de Windows**, 
 
 # 📘 Manual de uso
 
-Ingresar un número del 1 al 18 para seleccionar una acción
-Presionar S para confirmar
-Presionar 0 para salir
+Ingresar un número del 1 al 18 para seleccionar una acción.
+Presionar S para confirmar.
+Presionar 0 para salir.
 
 | #  | Función                                            |
 | -- | -------------------------------------------------- |
@@ -69,18 +69,18 @@ Presionar 0 para salir
 
 # 🔐 Seguridad
 
-Verifica ejecución como Administrador
-Usa herramientas nativas de Windows
-No instala software persistente
-No modifica el registro de forma permanente
+Verifica ejecución como Administrador.
+Usa herramientas nativas de Windows.
+No instala software persistente.
+No modifica el registro de forma permanente.
 
 # 🧠 Tecnologías utilizadas
 
-Batch Script (.bat)
-PowerShell
-DISM / SFC / CHKDSK
-CleanMgr / Defrag
-Microsoft Removal Tool (MSRT)
+Batch Script (.bat).
+PowerShell.
+DISM / SFC / CHKDSK.
+CleanMgr / Defrag.
+Microsoft Removal Tool (MSRT).
 
 # 📄 Licencia
 
@@ -89,11 +89,11 @@ El software se proporciona “tal cual”, sin garantía de ningún tipo.
 
 # 👤 Autor
 
-Desarrollado y corregido bajo prompts de NXZ
-Creado con asistencia de IA
+Desarrollado y corregido bajo prompts de NXZ.
+Creado con asistencia de IA.
 
 # ⭐ Recomendaciones finales
 
-Ejecutar primero la opción [1] Punto de Restauración
-No ejecutar múltiples opciones simultáneamente
-Ideal para mantenimiento periódico (mensual)
+Ejecutar primero la opción [1] Punto de Restauración.
+No ejecutar múltiples opciones simultáneamente.
+Ideal para mantenimiento periódico (mensual).
